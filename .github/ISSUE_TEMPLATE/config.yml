@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Report a bug with Home Assistant Core
+  - name: Report a bug with Richpear Home Core
     url: https://github.com/home-assistant/core/issues
     about: This is the issue tracker for our brand assets. Please report issues with the Core in the Core repository.
   - name: Report a bug with the UI, Frontend or Dashboards
