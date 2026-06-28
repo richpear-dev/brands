@@ -1,12 +1,12 @@
 [![Deploys by netlify](https://www.netlify.com/img/global/badges/netlify-color-bg.svg)](https://www.netlify.com)
 
-# Home Assistant Brands
+# Richpear Home Brands
 
-This repository holds the icons and logos for all the brands Home Assistant
+This repository holds the icons and logos for all the brands Richpear Home
 supports.
 
 This repository is used to generate a static website, serving these images
-for use in our Home Assistant projects. The goal is to have a centralized
+for use in our Richpear Home projects. The goal is to have a centralized
 repository of brand images.
 
 ## Inner workings
@@ -14,7 +14,7 @@ repository of brand images.
 This repository provides two main folders to store images in:
 
 - `core_integrations`: Contains images for integrations bundled with the
-  Home Assistant Core.
+  Richpear Home Core.
 - `custom_integrations`: Contains images for custom integrations
   (custom components). Legacy folder: Since HA 2026.3.0, custom components can include their brand icons directly. Please refer to the [Brands Proxy API announcement](https://developers.home-assistant.io/blog/2026/02/24/brands-proxy-api) for more details.
 
@@ -86,7 +86,7 @@ All icons and logos are cached by browsers for 7 days, so additions and changes 
 
 Images are simultaneously cached by Cloudflare for 24 hours. This allows changes to begin being distributed to users relatively quickly without losing the CDN benefits. It also guarantees a simple refresh (F5) will bring content no more than 1 day old.
 
-The Cloudflare cache is also fully flushed in each major version of Home Assistant Core.
+The Cloudflare cache is also fully flushed in each major version of Richpear Home Core.
 
 ## Image specification
 
@@ -101,7 +101,7 @@ All images must have the following requirements:
 - The image should be trimmed, so it contains the minimum amount of empty space on the edges.
   This includes things like white/black/any color borders or transparent spacing around the actual
   subject in the image.
-- Custom integrations must not use Home Assistant branded images, as this might confuse the end-user into thinking that the integration is an internal/official integration.
+- Custom integrations must not use Richpear Home branded images, as this might confuse the end-user into thinking that the integration is an internal/official integration.
 
 ### Icon image requirements
 
@@ -172,7 +172,7 @@ their (corporate) website, that contains high quality images.
 
 All product names, trademarks and registered trademarks in the images in this
 repository, are property of their respective owners. All images in this
-repository are used by the Home Assistant project for identification purposes
+repository are used by the Richpear Home project for identification purposes
 only.
 
 The use of these names, trademarks and brands appearing in these image files,
