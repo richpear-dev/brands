@@ -14,7 +14,7 @@
 
 ## Type of change
 <!--
-  What type of change does your PR introduce to the Home Assistant Brands?
+  What type of change does your PR introduce to the Richpear Home Brands?
   NOTE: Please, check only 1! box! 
   If your PR requires multiple boxes to be checked, you'll most likely need to
   split it into multiple PRs. This makes things easier and faster to code review.
