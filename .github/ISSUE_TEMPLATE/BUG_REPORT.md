@@ -1,6 +1,6 @@
 ---
-name: Report a bug with the Home Assistant Brands
-about: Report an issue with Home Assistant Brands
+name: Report a bug with the Richpear Home Brands
+about: Report an issue with Richpear Home Brands
 ---
 <!-- READ THIS FIRST:
   - If you need additional help with this template, please refer to https://www.home-assistant.io/help/reporting_issues/
