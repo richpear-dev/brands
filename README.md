@@ -1,4 +1,4 @@
-![Richpear Home](https://cdn.jsdelivr.net/gh/richpear-dev/brands@master/core_integrations/_homeassistant/logo.png)
+![Richpear Home](https://cdn.jsdelivr.net/gh/richpear-devs/brands@master/core_integrations/_homeassistant/logo.png)
 
 # Richpear Home — repozitář log a ikon integrací
 
